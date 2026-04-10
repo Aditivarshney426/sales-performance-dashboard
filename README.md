@@ -8,6 +8,11 @@ This project analyzes sales data to generate business insights using Microsoft E
 - Pivot Tables
 - Charts & Graphs
 
+🔍 Insights
+- Identified top-performing products and regions
+- Analyzed monthly sales growth patterns
+- Highlighted profit and loss areas
+- 
 📊 Key Features
 - Interactive dashboard
 - Sales & profit analysis
